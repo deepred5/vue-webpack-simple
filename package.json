@@ -13,6 +13,16 @@
     "vue": "^2.5.13"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "css-loader": "^0.28.8",
+    "file-loader": "^1.1.6",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "vue-style-loader": "^3.0.3",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.10.0"
   }
