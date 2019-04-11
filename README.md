@@ -1,1 +1,2 @@
 一个简单的webpack配置demo
+配合[教程](http://anata.me/2018/01/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%9F%BA%E4%BA%8Ewebpack%E7%9A%84vue%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)学习
